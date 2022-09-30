@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rabia-Asif-Profile/static/css/main.03db7d3d.css",
+    "main.js": "/Rabia-Asif-Profile/static/js/main.9995ab8f.js",
+    "static/js/787.1780c2dc.chunk.js": "/Rabia-Asif-Profile/static/js/787.1780c2dc.chunk.js",
+    "static/media/avatar.jpeg": "/Rabia-Asif-Profile/static/media/avatar.76bf9e43ed57849a5838.jpeg",
+    "index.html": "/Rabia-Asif-Profile/index.html",
+    "main.03db7d3d.css.map": "/Rabia-Asif-Profile/static/css/main.03db7d3d.css.map",
+    "main.9995ab8f.js.map": "/Rabia-Asif-Profile/static/js/main.9995ab8f.js.map",
+    "787.1780c2dc.chunk.js.map": "/Rabia-Asif-Profile/static/js/787.1780c2dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03db7d3d.css",
+    "static/js/main.9995ab8f.js"
+  ]
+}
